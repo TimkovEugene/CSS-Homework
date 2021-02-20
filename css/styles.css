@@ -1,0 +1,140 @@
+body {
+  margin: 0 auto;
+  max-width: 1400px;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 120px;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  padding-top: 100px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 55px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+
+hr {
+  border: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  color: #eaf6f6;
+  width: 10%;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  text-decoration: solid;
+  font-size: 30px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.header {
+  background-color: #eaf6f6;
+  margin: 0 auto;
+  position: relative;
+}
+
+.header span {
+  text-decoration: underline;
+}
+
+.section_1 {
+  margin: 100px auto;
+  width: 50%;
+}
+.section_2 {
+  margin: 100px auto;
+}
+.section_3 {
+  margin: 100px auto;
+  width: 50%;
+}
+.footer {
+  background-color: #66bfbf;
+}
+
+.top-cloud_img {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud_img {
+  position: absolute;
+  left: 250px;
+}
+
+.our-photo_img {
+  margin-top: 25px;
+  width: 75%;
+}
+
+.section_2__boxing {
+  margin: 100px auto;
+  width: 50%;
+  text-align-last: left;
+}
+
+.section_2__chillies {
+  margin: 100px auto;
+  width: 50%;
+  text-align: right;
+}
+
+.boxing {
+  width: 25%;
+  float: left;
+  margin-right: 45px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 45px;
+}
+
+.footer_sign {
+  color: #eaf6f6;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
+.section_3 h2 {
+  padding-bottom: 50px;
+}
+
+.section_3 p {
+  padding: 50px;
+}
+
+.button {
+  background-color: #66bfbf;
+  color: #eaf6f6;
+  border-radius: 20px;
+  padding: 10px 25px;
+  text-transform: uppercase;
+}
+
+.footer a {
+  padding: 0 30px;
+}
+
+.links {
+  padding-top: 30px;
+}
